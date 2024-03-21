@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Максим Янбухтин](https://up.htmlacademy.ru/nodejs-2/6/user/1519305).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Наумов](https://htmlacademy.ru/profile/naumov_evg).
 
 ---
 
